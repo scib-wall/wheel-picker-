@@ -1,23 +1,23 @@
 // Secret predetermined winning sequence in exact order
 const predeterminedWinners = [
-  "ROCHELLE",
-  "ELLA",
-  "HEART",
-  "KYLA",
-  "HYGEIA",
-  "ALTHEA",
-  "MELIZA"
+  "CATHERINE",
+  "LARRY",
+  "ANN",
+  "ELSA",
+  "IANNE",
+  "MARVELLOUS",
+  "MJ"
 ];
 
 // Initial visual list on the wheel
 const initialNames = [
-  "ROCHELLE",
-  "ELLA",
-  "HEART",
-  "KYLA",
-  "HYGEIA",
-  "ALTHEA",
-  "MELIZA"
+  "CATHERINE",
+  "LARRY",
+  "ANN",
+  "ELSA",
+  "IANNE",
+  "MARVELLOUS",
+  "MJ"
 ];
 let names = [...initialNames];
 
